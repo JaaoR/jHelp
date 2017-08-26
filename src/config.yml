@@ -1,0 +1,17 @@
+#Ativar plugin?
+enabled: false
+
+#Mensagem que será enviada quando o  funcionamento do plugin estiver desativado
+desativado: "&cEsse plugin foi desativado. Entre em contato com a equipe de suporte para mais informações."
+
+#Permissão necessária para usar o comando
+ativar_perm:  true
+permissao: jhelp.use
+sem_permissão: "&cVocê não tem permissão para executar esse comando."
+
+#Mensagens que serão enviadas quando o jogador digitar /ajuda
+mensagens:
+- "&6Primeira linha"
+- "&eSegunda linha"
+- "&aTerceira linha"
+- "&bJaao"

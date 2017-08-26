@@ -1,0 +1,6 @@
+name: jHelp
+version: 1.0
+main: br.com.joaoraphael.Main
+commands:
+  ajuda:
+    aliases: [help, jhelp]
